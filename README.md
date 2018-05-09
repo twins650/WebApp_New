@@ -1,7 +1,7 @@
-# CloudenabledWebApp
+# WebApp_New
 CloudenabledWebApp for maven web app
 
-## By: Cloudenabled
+## By: Saravanan
 
 # Pre-reques:
 ---------------
@@ -31,7 +31,7 @@ To create a simple java project using maven, you need to open command prompt and
  Deploy and Run the Maven Web Project
  =======================================
  Deploy the project on the server and access it by the following url:
- http://<host-name>:<portnumber>/projectname, for example: http://localhost:8080/CloudenabledWebApp
+ http://<host-name>:<portnumber>/projectname, for example: http://localhost:8080/WebApp_New
  By copying the generated war file onto /var/lib/tomcat7/webapp and restart the tomcat7 service
  
 For adding feature copy below lines and update index.html on line 33 
